@@ -1,3 +1,4 @@
 mariadb-data/
 mongo-data/
 backups/
+postral-tester/node_modules/
